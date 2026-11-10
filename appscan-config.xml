@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Configuration staticAnalysisOnly="true">
+   <Targets>
+      <Target outputs-only="true" path="E:\AltoroJ-AltoroJ-3.2"/>
+   </Targets>
+</Configuration>

@@ -1,0 +1,40 @@
+<wafl xmlns="http://www.ibm.com/WAFLSchema">
+  <global-bean-decls>
+  </global-bean-decls>
+  <synthetic-methods>
+  </synthetic-methods>
+  <entrypoints>
+    <entrypoint sig="org.apache.jsp.admin.login_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/admin/login.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.bank.apply_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/apply.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.bank.applysuccess_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/applysuccess.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.bank.customize_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/customize.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.bank.stocks_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/bank/stocks.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.login_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/login.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.status_005fcheck_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/status_check.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.subscribe_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/subscribe.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.survey_005fquestions_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/survey_questions.jsp</url>
+    </entrypoint>
+    <entrypoint sig="org.apache.jsp.util.serverStatusCheckService_jsp._jspService(javax.servlet.http.HttpServletRequest;javax.servlet.http.HttpServletResponse):void">
+      <url>/util/serverStatusCheckService.jsp</url>
+    </entrypoint>
+  </entrypoints>
+  <call-replacements>
+  </call-replacements>
+</wafl>
